@@ -1,0 +1,7 @@
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXPOSICION\POO1\ejercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.exe.config
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXPOSICION\POO1\ejercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXPOSICION\POO1\ejercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.pdb
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXPOSICION\POO1\ejercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.AssemblyReference.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXPOSICION\POO1\ejercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXPOSICION\POO1\ejercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXPOSICION\POO1\ejercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.pdb
