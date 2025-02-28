@@ -1,0 +1,11 @@
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\obj\Debug\Formularios.Form1.resources
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\FORMULARIOS\Formularios\Formularios\obj\Debug\Formularios.Persona.resources
